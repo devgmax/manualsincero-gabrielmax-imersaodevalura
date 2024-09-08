@@ -1,9 +1,8 @@
 # 🎨 Manual Sincero de Linguagens de Programação - Imersão Dev c/ Google Gemini.
 
+
 ## Um projeto divertido e interativo para explorar linguagens de programação com descrições cheias de humor!
-
 <p align="center"> <img src="HELLOWORLD.png" width="1000px"> </p>
-
 # 📖 Visão Geral
 ## O Manual Sincero de Linguagens de Programação oferece uma visão leve e engraçada sobre várias linguagens de programação. Conforme você digita no campo de pesquisa, uma lista com linguagens e suas descrições humorísticas aparece na tela.
 
