@@ -51,7 +51,7 @@ O **Manual Sincero de Linguagens de Programação** oferece uma visão leve e en
 ## 👤 Autor
 
 **Gabriel Max**  
-Siga-me nas redes sociais: [Instagram Badge](https://www.instagram.com/dev_sololvl)
+Siga-me nas redes sociais:(https://www.instagram.com/dev_sololvl)
 
 ---
 
