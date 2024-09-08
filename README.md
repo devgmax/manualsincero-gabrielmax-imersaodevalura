@@ -32,7 +32,7 @@
 ## app.js: Arquivo JavaScript que lida com a lógica de pesquisa e manipulação da interface.
 ## dados.js: Contém as descrições e informações das linguagens de programação.
 
-## 👤 Autor Gabriel Max.  Siga-me nas redes sociais: @dev_sololvl [![Instagram Badge](https://img.shields.io/badge/-dev_sololvl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_sololvl?utm_source=qr&igsh=Y2ZoaTc2aTV1b2s0)](https://www.instagram.com/dev_sololvl?utm_source=qr&igsh=Y2ZoaTc2aTV1b2s0)
+## 👤 Autor Gabriel Max.  Siga-me nas redes sociais: [![Instagram Badge](https://img.shields.io/badge/-dev_sololvl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_sololvl?utm_source=qr&igsh=Y2ZoaTc2aTV1b2s0)](https://www.instagram.com/dev_sololvl?utm_source=qr&igsh=Y2ZoaTc2aTV1b2s0)
 
 # ⭐️ Mostre seu apoio
 ## Se você gostou do projeto, dê uma ⭐️ no Discord da Alura e aqui no Github também! 
