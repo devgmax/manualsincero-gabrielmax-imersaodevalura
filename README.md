@@ -1,5 +1,6 @@
 #🎨 Manual Sincero de Linguagens de Programação
-Um projeto divertido e interativo para explorar linguagens de programação com descrições cheias de humor!
+
+##Um projeto divertido e interativo para explorar linguagens de programação com descrições cheias de humor!
 
 <p align="center"> <img src="HELLOWORLD.png" width="400px"> </p>
 
