@@ -1,7 +1,7 @@
 🎨 Manual Sincero de Linguagens de Programação
 Um projeto divertido e interativo para explorar linguagens de programação com descrições cheias de humor!
 
-<p align="center"> <img src="https://via.placeholder.com/600x300?text=Logo+do+Projeto" alt="Logo do Projeto" width="400px"> </p>
+<p align="center"> <img src="HELLOWORLD.png" width="400px"> </p>
 
 📖 Visão Geral
 O Manual Sincero de Linguagens de Programação oferece uma visão leve e engraçada sobre várias linguagens de programação. Conforme você digita no campo de pesquisa, uma lista com linguagens e suas descrições humorísticas aparece na tela.
