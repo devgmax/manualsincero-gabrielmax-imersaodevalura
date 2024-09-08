@@ -1,5 +1,6 @@
 # 🎨 Manual Sincero de Linguagens de Programação - Imersão Dev c/ Google Gemini.
 
+## Link direto do vercel: https://devmanualsincero-gabrielmax.vercel.app
 
 ## Um projeto divertido e interativo para explorar linguagens de programação com descrições cheias de humor!
 <p align="center"> <img src="HELLOWORLD.png" width="1000px"> </p>
